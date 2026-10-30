@@ -1,0 +1,23 @@
+{
+  "movie:123": [
+    {
+      "url": "https://media.example.com/izinli-film.mp4",
+      "name": "Kisisel Arsiv",
+      "quality": "1080p",
+      "language": "tr",
+      "audio": "dublaj",
+      "note": "Turkce Dublaj",
+      "subtitles": [{"url": "https://media.example.com/film-tr.vtt", "lang": "tur", "label": "Türkçe"}]
+    }
+  ],
+  "tv:456:1:1": [
+    {
+      "url": "https://media.example.com/izinli-dizi-s01e01.m3u8",
+      "name": "Kisisel Arsiv",
+      "quality": "720p",
+      "language": "tr",
+      "audio": "orijinal",
+      "note": "Turkce"
+    }
+  ]
+}

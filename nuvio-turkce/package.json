@@ -1,0 +1,13 @@
+{
+  "name": "nuvio-turkce",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Nuvio/Stremio icin Turkce film ve dizi kesif eklentisi ve kisisel medya saglayicisi",
+  "type": "commonjs",
+  "engines": {"node": ">=18"},
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
